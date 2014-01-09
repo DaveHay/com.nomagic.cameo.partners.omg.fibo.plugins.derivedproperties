@@ -1,0 +1,8 @@
+The assignment is to create a template for printing all relevant information about an "essential" entity/relationship model.
+
+The starting point was "Template 7", developed by No Magic Support. The problem was that it printed information for all
+classes in the parent package.  Lonnie created a sample that identified diagrams that have highlighted entity types.  
+
+I believe that to be "Class experiment 131214.docx".  I tried some things, most recently in "Rels DH 4 TMPL.docx".
+
+Unfortunately, last week I upgraded to version 17.0.5 of Magic Draw, and since then no reporting seems to work.
